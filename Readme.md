@@ -10,7 +10,7 @@
 - Learning Path 3 [Prepare for Microsoft 365 Copilot extensibility][LP3]
 
 
-# Videos on YouTube
+## Videos on YouTube
 
 [How to get ready for Microsoft 365 Copilot faster](https://www.youtube.com/watch?v=Fat__1WnHUQ&list=PLXtHYVsvn_b-NeN9BbLb5sLpIGfdP8j78)
 
@@ -18,10 +18,12 @@
 
 
 
-# Related Courses
+## Related Courses
 
 MS-4014 [Build a foundation to extend Microsoft 365 Copilot][4014 LP]
+
 MS-4010 [Extend Microsoft 365 Copilot with declarative agents by using Visual Studio Code][4010 LP]
+
 MS-4022 [Extend Microsoft 365 Copilot in Copilot Studio][4022 LP]
 
 
