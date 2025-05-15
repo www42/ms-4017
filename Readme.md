@@ -5,6 +5,12 @@
 
 # MS-4017 Manage and extend Microsoft 365 Copilot
 
+
+
+### Seminar 15.05.2025
+
+[Presentation](pdf/)
+
 [Course MS-4017: Manage and extend Microsoft 365 Copilot | Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/MS-4017)
 
 - Learning Path 1 [Prepare your organization for Microsoft 365 Copilot][LP1]
